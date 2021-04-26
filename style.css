@@ -1,0 +1,26 @@
+.heading{
+    font-family: Algerian;
+    font-style: inherit;
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 10px 50px indianred;
+}
+
+.heading_div{
+    float: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: bold;
+border: outset;
+background-color: purple;
+color: violet;
+padding: 10px;
+box-shadow: -20px 5px 50px red;
+}
+
+.div2{
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+    font-size: 25px;
+}
